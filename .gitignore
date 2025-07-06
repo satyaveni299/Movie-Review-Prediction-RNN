@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.tfenv/
+*.env
+*.venv
+.Python
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook runtime
+.ipynb_checkpoints/
+
+# Model weights, logs, and cache
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+*.pth
+*.tflite
+*.joblib
+*.pkl
+*.npy
+*.npz
+
+# Dataset files
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.zip
+*.tar.gz
+
+# Logs
+logs/
+*.log
+
+# Streamlit
+.streamlit/
+
+# OS / system files
+.DS_Store
+Thumbs.db
+
+# Protobuf
+*.pb.cc
+*.pb.h
+*.pb.go
